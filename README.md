@@ -72,7 +72,7 @@ People
 
 Nature
 
-| Natures | Markdown | Emojis |
+| Nature | Markdown | Emojis |
 |---|---|---|
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
